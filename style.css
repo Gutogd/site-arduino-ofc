@@ -1,0 +1,14 @@
+body{
+    background-color: blanchedalmond;
+    font-size: medium;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    transition: 2s;
+    color: cornflowerblue;
+    font-size: larger;
+
+}
